@@ -1,6 +1,3 @@
-Here's a more concise version of the README file for your birthday email sending script:
-
----
 
 # Birthday Email Sender
 
@@ -15,6 +12,7 @@ This script reads a CSV file containing birthday data, selects a random birthday
 
 - Python 3.x
 - pandas library
+- smtplib
 
 ## Setup
 
@@ -45,6 +43,4 @@ Best regards,
 Your Friend
 ```
 
----
 
-This version provides the necessary information in a more concise format.
